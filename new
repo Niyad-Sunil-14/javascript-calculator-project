@@ -1,0 +1,17 @@
+var j=document.getElementById("screen").value
+    if (a=10)
+    {
+        var plusresult=+plus+ +j
+        document.getElementById("screen").value=plusresult
+    }
+    else if (b=20) 
+    {
+        var minusresult=minus-=j
+        document.getElementById("screen").value=minusresult
+    } 
+    
+
+
+
+
+    
